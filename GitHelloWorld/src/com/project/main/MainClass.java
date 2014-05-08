@@ -1,5 +1,6 @@
 package com.project.main;
 
+import com.project.Special;
 import com.project.test.SimpleClass;
 
 public class MainClass {
@@ -13,7 +14,9 @@ public class MainClass {
 		System.out.println("Another line");
 		System.out.println("Method :" + calculate(5, 6));
 		System.out.println("Class method 1: " + SimpleClass.calculate(5, 6));
-		System.out.println("Class method 2: " + AnotherSimpleClass.calculate(5, 6));
+		
+		
+		Special.method();
 	}
 	
 }
