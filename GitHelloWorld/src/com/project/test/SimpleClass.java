@@ -6,4 +6,8 @@ public class SimpleClass {
 		return "Class hello world!";
 	}
 	
+	public static int calculate(int a, int b) {
+		return a - b;
+	}
+	
 }
