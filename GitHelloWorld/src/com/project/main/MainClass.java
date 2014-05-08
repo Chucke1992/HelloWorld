@@ -19,8 +19,8 @@ public class MainClass {
 		System.out.println("Class method 3: " + UltraClass.calculate(5, 6));
 		//no data
 		
-		
 		System.out.println("Class method 4: " + "No data");
+		System.out.println("Data!");
 	}
 	
 }
