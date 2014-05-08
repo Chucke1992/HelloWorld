@@ -19,6 +19,7 @@ public class MainClass {
 		System.out.println("Class method 3: " + UltraClass.calculate(5, 6));
 		//no data
 		
+		System.out.println("Ultrabranch commit!");
 		System.out.println("Data!");
 	}
 	
