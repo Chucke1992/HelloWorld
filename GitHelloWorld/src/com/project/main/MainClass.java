@@ -20,6 +20,7 @@ public class MainClass {
 		//no data
 		
 		System.out.println("Class method 4: " + "No data");
+		System.out.println("Ultrabranch commit!");
 		System.out.println("Data!");
 	}
 	
