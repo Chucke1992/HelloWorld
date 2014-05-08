@@ -12,7 +12,8 @@ public class MainClass {
 		System.out.println("Message from gitHub folder: " + SimpleClass.getMessage());
 		System.out.println("Another line");
 		System.out.println("Method :" + calculate(5, 6));
-		System.out.println("Class method: " + SimpleClass.calculate(5, 6));
+		System.out.println("Class method 1: " + SimpleClass.calculate(5, 6));
+		System.out.println("Class method 2: " + AnotherSimpleClass.calculate(5, 6));
 	}
 	
 }
