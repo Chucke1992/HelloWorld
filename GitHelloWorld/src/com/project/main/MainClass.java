@@ -21,6 +21,7 @@ public class MainClass {
 		
 		System.out.println("Class method 4: " + "No data");
 		System.out.println("Data!");
+		System.out.println("Ultrabranch!");
 	}
 	
 }
