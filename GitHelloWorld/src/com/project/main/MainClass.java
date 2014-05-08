@@ -2,6 +2,7 @@ package com.project.main;
 
 import com.project.test.AnotherSimpleClass;
 import com.project.test.SimpleClass;
+import com.project.UltraClass;
 
 public class MainClass {
 
