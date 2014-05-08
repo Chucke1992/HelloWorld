@@ -1,5 +1,6 @@
 package com.project.main;
 
+import com.project.test.AnotherSimpleClass;
 import com.project.test.SimpleClass;
 
 public class MainClass {
